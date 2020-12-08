@@ -5,3 +5,14 @@
 .plan-card {
   max-width: 300px;
 }
+
+.navbar-expand {
+  justify-content: space-between !important;
+}
+
+.btn {
+  padding-top: 0.1rem !important;
+  padding-bottom: 0.1rem !important;
+  margin-top: 0.3rem !important;
+  margin-bottom: 1rem !important;
+}
