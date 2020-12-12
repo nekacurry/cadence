@@ -50,3 +50,8 @@
 .carousel-caption {
   background-color: rgba(0, 0, 0, 0.664);
 }
+
+.example-covers img {
+  width: 200px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
+}
